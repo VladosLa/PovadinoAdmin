@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "type": "commonjs",
+    "scripts": {
+        "dev": "npx mix",
+        "build": "npx mix"
+    },
+    "devDependencies": {
+        "axios": "^1.6.1",
+        "laravel-mix": "^6.0.49"
+    }
+}
